@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pcampolinati
+### Hi, I’m Pedro Campolina 🖐️
 - 👀 I’m interested in become a great developer!
 - 🌱 I’m currently learning python and college in ti!
 - 💞️ I’m looking enter the job market in order to collaborate on with new ideas, knowledge and a lot of willpower!
@@ -8,6 +8,7 @@
 developer market, thinking it wasn't for me, but today I see that I wasted a lot of time, as it is something that
 fascinates me, but I don't regret it, as it is never too late to start !
 
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pedrocampolinati/?next=%2F)
 <!---
 pcampolinati/pcampolinati is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
