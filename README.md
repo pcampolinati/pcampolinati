@@ -8,7 +8,7 @@
 developer market, thinking it wasn't for me, but today I see that I wasted a lot of time, as it is something that
 fascinates me, but I don't regret it, as it is never too late to start !
 
-![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=pcampolinati&show_icons=true&theme=dark)
+![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=pcampolinati&show_icons=true&theme=gruvbox)
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pedrocampolinati/?next=%2F)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-campolina-39559b29b/)
